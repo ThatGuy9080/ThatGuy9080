@@ -1,0 +1,19 @@
+<DOCTYPE! html>
+<html>
+<h1 style=text-align:center;> Conversion table
+</h1>
+<h2 style=text-align:center;> Input fractions
+<form alert="('75%')">
+Numerator:<br>
+<input type="text" name="numerator" >
+<br>
+Denominator:<br>
+<input type="text" name="denominator">
+<br><br>
+<button  type=button onclick="alert('This fraction is equal to 75% or .75')"> Submit
+</button>
+<input type="reset">
+</form> 
+
+<h3 style=text-align:center;> Made specifically for JC by LeftSharkProductions
+</html>
